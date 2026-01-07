@@ -1,1 +1,2 @@
 # CPSC-5310-01-Machine_Learning
+This course introduces machine learning foundations, concepts, and algorithms and their applications in analyzing massive amounts of data to find interesting patterns that can be used to assist decision-making or provide predictions. Topics include decision trees, Bayesian classification, clustering, sequence clustering, association rules, time series analysis, and neural networks. Students are expected to analyze real-world data.
